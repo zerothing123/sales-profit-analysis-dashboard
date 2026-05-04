@@ -9,6 +9,7 @@ Power BI (Dashboard & visualization)
 
 Workflow :-
 1.Used SQL to clean and analyze raw sales data
+
 2.Created aggregated tables (sales, profit, discount analysis)
 3.Imported processed data into Power BI
 4.Built interactive dashboard for business insights
