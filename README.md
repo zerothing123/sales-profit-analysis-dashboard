@@ -24,7 +24,7 @@ sales dataset.pbix → Power BI dashboard
 sales_data.sql → SQL queries used for analysis
 
 Dashboard Preview
-(Add screenshot of Page 1 here)
+![Dashboard](dash.png)
 
 About
 This project demonstrates end-to-end data analysis using SQL and Power BI, including data transformation, visualization, and insight generation.
