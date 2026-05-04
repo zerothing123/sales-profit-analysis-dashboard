@@ -23,7 +23,7 @@ The data was first explored and transformed using SQL, and then visualized in Po
 ## Files Included
 - sales dataset.pbix → Power BI dashboard  
 - sales_data.sql → SQL queries used
-- 
+
 ## Dashboard Preview 
 ![Dashboard](dash.png)
 
